@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 - 🔭 I’m currently working on [landing-page](https://github.com/xadrian11/Landing-Page)
-
+- 👨‍💻 All of my projects are available at [https://github.com/xadrian11?tab=repositories](https://github.com/xadrian11?tab=repositories)
 - 🌱 I’m currently learning **Javascript and React :)**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
