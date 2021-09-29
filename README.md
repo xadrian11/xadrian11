@@ -1,9 +1,4 @@
- background: linear-gradient(
-        90deg,
-        rgba(131, 58, 180, 1) 0%,
-        rgba(253, 29, 94, 1) 50%,
-        rgba(252, 176, 69, 1) 100%
-    );
+
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
