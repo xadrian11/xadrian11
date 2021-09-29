@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate frontend developer from Poland 🇵🇱 </h3>
 
 - 🔭 I’m currently working on [landing-page](https://github.com/xadrian11/Landing-Page)
 - 👨‍💻 All of my projects are available at [https://github.com/xadrian11?tab=repositories](https://github.com/xadrian11?tab=repositories)
